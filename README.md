@@ -1,12 +1,1 @@
 # nosa-gith.github.io
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>nosa</title>
-</head>
-<body>
-    <h1>Hello, It's me!</h1>
-    <p>This is my first website.</p>
-</body>
-</html>
